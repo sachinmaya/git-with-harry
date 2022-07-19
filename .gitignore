@@ -1,1 +1,4 @@
 mylog2.log
+/mylog2.log
+*.log
+*.cpp
